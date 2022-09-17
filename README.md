@@ -54,3 +54,8 @@ application/json
     "boardId" : 1
 }
 </pre>
+
+## 참고
+* jpa json 컬럼 : https://lingi04.tistory.com/38
+* 파일 널 체크 : https://myunji.tistory.com/488
+* postman body 순서 : https://velog.io/@sunclock/Postman%EC%97%90%EC%84%9C-file%EA%B3%BC-json-body-%ED%95%9C%EB%B2%88%EC%97%90-POST-%EC%9A%94%EC%B2%AD%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
